@@ -18,7 +18,6 @@ Pod::Spec.new do |spec|
   spec.ios.vendored_frameworks  = [
     "AcessoBio.xcframework",
     "DeviceProfiling.xcframework",
-    "FacetecSDK.xcframework",
     "UnicoSdkBase.xcframework",
     "UnicoSdkLiveness.xcframework",
     "UnicoSdkLogger.xcframework",
